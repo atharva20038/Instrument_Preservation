@@ -1,0 +1,2693 @@
+{
+    "Guitar_0004_utt_0001-idx3.wav": {
+        "filename": "Guitar_0004_utt_0001-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "suno",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data_16k/segmented/suno/Guitar/Guitar_0004_utt_0001.wav"
+    },
+    "Guitar_0012_utt_0011-idx2.wav": {
+        "filename": "Guitar_0012_utt_0011-idx2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "suno",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data_16k/segmented/suno/Guitar/Guitar_0012_utt_0011.wav"
+    },
+    "Guitar_0030_utt_0003-idx1.wav": {
+        "filename": "Guitar_0030_utt_0003-idx1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "suno",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0030_utt_0003.wav"
+    },
+    "Guitar_0027_utt_0004-idx0.wav": {
+        "filename": "Guitar_0027_utt_0004-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "suno",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0027_utt_0004.wav"
+    },
+    "Guitar_0025_utt_0011-idx4.wav": {
+        "filename": "Guitar_0025_utt_0011-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "suno",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0025_utt_0011.wav"
+    },
+    "Guitar_0001_utt_0773-idx3-v2.wav": {
+        "filename": "Guitar_0001_utt_0773-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0001_utt_0773.wav"
+    },
+    "Guitar_0003_utt_0038-idx0-v1.wav": {
+        "filename": "Guitar_0003_utt_0038-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0003_utt_0038.wav"
+    },
+    "Guitar_0003_utt_0095-idx3-v1.wav": {
+        "filename": "Guitar_0003_utt_0095-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0003_utt_0095.wav"
+    },
+    "Guitar_0003_utt_0264-idx4-v1.wav": {
+        "filename": "Guitar_0003_utt_0264-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0003_utt_0264.wav"
+    },
+    "Guitar_0005_utt_0309-idx2-v1.wav": {
+        "filename": "Guitar_0005_utt_0309-idx2-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0005_utt_0309.wav"
+    },
+    "Guitar_0004_utt_0009-idx1-v1.wav": {
+        "filename": "Guitar_0004_utt_0009-idx1-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0004_utt_0009.wav"
+    },
+    "Guitar_0003_utt_0355-idx2-v2.wav": {
+        "filename": "Guitar_0003_utt_0355-idx2-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0003_utt_0355.wav"
+    },
+    "Guitar_0004_utt_0039-idx1-v2.wav": {
+        "filename": "Guitar_0004_utt_0039-idx1-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0004_utt_0039.wav"
+    },
+    "Guitar_0005_utt_0180-idx4-v2.wav": {
+        "filename": "Guitar_0005_utt_0180-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0005_utt_0180.wav"
+    },
+    "Guitar_0004_utt_0104-idx0-v2.wav": {
+        "filename": "Guitar_0004_utt_0104-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0004_utt_0104.wav"
+    },
+    "Guitar_0001_utt_0006-idx1.wav": {
+        "filename": "Guitar_0001_utt_0006-idx1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "lyria",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0001_utt_0006.wav"
+    },
+    "Guitar_0011_utt_0006-idx2.wav": {
+        "filename": "Guitar_0011_utt_0006-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "lyria",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0011_utt_0006.wav"
+    },
+    "Guitar_0022_utt_0003-idx0.wav": {
+        "filename": "Guitar_0022_utt_0003-idx0.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "lyria",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data_16k/segmented/lyria/Guitar/Guitar_0022_utt_0003.wav"
+    },
+    "Guitar_0014_utt_0013-idx4.wav": {
+        "filename": "Guitar_0014_utt_0013-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "lyria",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0014_utt_0013.wav"
+    },
+    "Guitar_0026_utt_0009-idx3.wav": {
+        "filename": "Guitar_0026_utt_0009-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "lyria",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/lyria/Guitar/Guitar_0026_utt_0009.wav"
+    },
+    "Guitar_0003_utt_0393-idx0-v1.wav": {
+        "filename": "Guitar_0003_utt_0393-idx0-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0003_utt_0393.wav"
+    },
+    "Guitar_0001_utt_0181-idx4-v1.wav": {
+        "filename": "Guitar_0001_utt_0181-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0001_utt_0181.wav"
+    },
+    "Guitar_0001_utt_0570-idx2-v1.wav": {
+        "filename": "Guitar_0001_utt_0570-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0001_utt_0570.wav"
+    },
+    "Guitar_0001_utt_0011-idx3-v1.wav": {
+        "filename": "Guitar_0001_utt_0011-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0001_utt_0011.wav"
+    },
+    "Guitar_0001_utt_0892-idx1-v1.wav": {
+        "filename": "Guitar_0001_utt_0892-idx1-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0001_utt_0892.wav"
+    },
+    "Guitar_0003_utt_0270-idx1-v2.wav": {
+        "filename": "Guitar_0003_utt_0270-idx1-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0003_utt_0270.wav"
+    },
+    "Guitar_0004_utt_0349-idx3-v2.wav": {
+        "filename": "Guitar_0004_utt_0349-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0004_utt_0349.wav"
+    },
+    "Guitar_0004_utt_0194-idx2-v2.wav": {
+        "filename": "Guitar_0004_utt_0194-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0004_utt_0194.wav"
+    },
+    "Guitar_0006_utt_0026-idx0-v2.wav": {
+        "filename": "Guitar_0006_utt_0026-idx0-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0006_utt_0026.wav"
+    },
+    "Guitar_0000-idx3.wav": {
+        "filename": "Guitar_0000-idx3.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "mustango",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../../mustango/data/mustango/Guitar/Guitar_0000.wav"
+    },
+    "Guitar_0001-idx0.wav": {
+        "filename": "Guitar_0001-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "mustango",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../../mustango/data/mustango/Guitar/Guitar_0001.wav"
+    },
+    "Guitar_0014-idx4.wav": {
+        "filename": "Guitar_0014-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "mustango",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../../mustango/data/mustango/Guitar/Guitar_0014.wav"
+    },
+    "Guitar_0019-idx1.wav": {
+        "filename": "Guitar_0019-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "mustango",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../../mustango/data/Guitar/Guitar_0019.wav"
+    },
+    "Guitar_0022-idx2.wav": {
+        "filename": "Guitar_0022-idx2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "mustango",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../../mustango/data/Guitar/Guitar_0022.wav"
+    },
+    "Guitar_0001_utt_0101-idx0-v1.wav": {
+        "filename": "Guitar_0001_utt_0101-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0001_utt_0101.wav"
+    },
+    "Guitar_0003_utt_0147-idx0-v2.wav": {
+        "filename": "Guitar_0003_utt_0147-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0003_utt_0147.wav"
+    },
+    "Guitar_0002_utt_0153-idx4-v1.wav": {
+        "filename": "Guitar_0002_utt_0153-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0002_utt_0153.wav"
+    },
+    "Guitar_0003_utt_0078-idx1-v2.wav": {
+        "filename": "Guitar_0003_utt_0078-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0003_utt_0078.wav"
+    },
+    "Guitar_0003_utt_0182-idx3-v2.wav": {
+        "filename": "Guitar_0003_utt_0182-idx3-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0003_utt_0182.wav"
+    },
+    "Guitar_0003_utt_0358-idx3-v1.wav": {
+        "filename": "Guitar_0003_utt_0358-idx3-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0003_utt_0358.wav"
+    },
+    "Guitar_0004_utt_0067-idx1-v1.wav": {
+        "filename": "Guitar_0004_utt_0067-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0004_utt_0067.wav"
+    },
+    "Guitar_0005_utt_0058-idx2-v2.wav": {
+        "filename": "Guitar_0005_utt_0058-idx2-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0005_utt_0058.wav"
+    },
+    "Guitar_0005_utt_0093-idx2-v1.wav": {
+        "filename": "Guitar_0005_utt_0093-idx2-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0005_utt_0093.wav"
+    },
+    "Guitar_0001_utt_0578-idx4-v2.wav": {
+        "filename": "Guitar_0001_utt_0578-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0001_utt_0578.wav"
+    },
+    "Guitar_0010-idx3.wav": {
+        "filename": "Guitar_0010-idx3.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "musicgen",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Guitar/Guitar_0010.wav"
+    },
+    "Guitar_0015-idx4.wav": {
+        "filename": "Guitar_0015-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "musicgen",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Guitar/Guitar_0015.wav"
+    },
+    "Guitar_0005-idx0.wav": {
+        "filename": "Guitar_0005-idx0.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "musicgen",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../../musicgen/data/Guitar/Guitar_0005.wav"
+    },
+    "Guitar_0017-idx2.wav": {
+        "filename": "Guitar_0017-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "musicgen",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Guitar/Guitar_0017.wav"
+    },
+    "Guitar_0026-idx1.wav": {
+        "filename": "Guitar_0026-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "musicgen",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../../musicgen/data/Guitar/Guitar_0026.wav"
+    },
+    "Guitar_0001_utt_0944-idx2-v1.wav": {
+        "filename": "Guitar_0001_utt_0944-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0001_utt_0944.wav"
+    },
+    "Guitar_0001_utt_0308-idx0-v1.wav": {
+        "filename": "Guitar_0001_utt_0308-idx0-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0001_utt_0308.wav"
+    },
+    "Guitar_0001_utt_1047-idx1-v2.wav": {
+        "filename": "Guitar_0001_utt_1047-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0001_utt_1047.wav"
+    },
+    "Guitar_0002_utt_0299-idx0-v2.wav": {
+        "filename": "Guitar_0002_utt_0299-idx0-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0002_utt_0299.wav"
+    },
+    "Guitar_0002_utt_0079-idx4-v1.wav": {
+        "filename": "Guitar_0002_utt_0079-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0002_utt_0079.wav"
+    },
+    "Guitar_0003_utt_0389-idx4-v2.wav": {
+        "filename": "Guitar_0003_utt_0389-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0003_utt_0389.wav"
+    },
+    "Guitar_0005_utt_0070-idx3-v2.wav": {
+        "filename": "Guitar_0005_utt_0070-idx3-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0005_utt_0070.wav"
+    },
+    "Guitar_0004_utt_0070-idx2-v2.wav": {
+        "filename": "Guitar_0004_utt_0070-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0004_utt_0070.wav"
+    },
+    "Guitar_0003_utt_0255-idx1-v1.wav": {
+        "filename": "Guitar_0003_utt_0255-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Guitar/Guitar_0003_utt_0255.wav"
+    },
+    "Guitar_0005_utt_0070-idx3-v1.wav": {
+        "filename": "Guitar_0005_utt_0070-idx3-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Guitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data/segmented/Guitar/Guitar_0005_utt_0070.wav"
+    },
+    "Violin_0003_utt_0002-idx0.wav": {
+        "filename": "Violin_0003_utt_0002-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "suno",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0003_utt_0002.wav"
+    },
+    "Violin_0003_utt_0010-idx3.wav": {
+        "filename": "Violin_0003_utt_0010-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "suno",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/suno/Violin/Violin_0003_utt_0010.wav"
+    },
+    "Violin_0003_utt_0014-idx4.wav": {
+        "filename": "Violin_0003_utt_0014-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "suno",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0003_utt_0014.wav"
+    },
+    "Violin_0032_utt_0011-idx2.wav": {
+        "filename": "Violin_0032_utt_0011-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "suno",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0032_utt_0011.wav"
+    },
+    "Violin_0031_utt_0010-idx1.wav": {
+        "filename": "Violin_0031_utt_0010-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "suno",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/suno/Violin/Violin_0031_utt_0010.wav"
+    },
+    "Violin_0053_utt_0015-idx1-v2.wav": {
+        "filename": "Violin_0053_utt_0015-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0053_utt_0015.wav"
+    },
+    "Violin_0090_utt_0014-idx3-v1.wav": {
+        "filename": "Violin_0090_utt_0014-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0090_utt_0014.wav"
+    },
+    "Violin_0099_utt_0006-idx0-v2.wav": {
+        "filename": "Violin_0099_utt_0006-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0099_utt_0006.wav"
+    },
+    "Violin_0114_utt_0021-idx1-v1.wav": {
+        "filename": "Violin_0114_utt_0021-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0114_utt_0021.wav"
+    },
+    "Violin_0205_utt_0698-idx2-v1.wav": {
+        "filename": "Violin_0205_utt_0698-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0205_utt_0698.wav"
+    },
+    "Violin_0208_utt_0541-idx3-v2.wav": {
+        "filename": "Violin_0208_utt_0541-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0208_utt_0541.wav"
+    },
+    "Violin_0208_utt_0627-idx4-v1.wav": {
+        "filename": "Violin_0208_utt_0627-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0208_utt_0627.wav"
+    },
+    "Violin_0155_utt_0028-idx2-v2.wav": {
+        "filename": "Violin_0155_utt_0028-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0155_utt_0028.wav"
+    },
+    "Violin_0099_utt_0036-idx0-v1.wav": {
+        "filename": "Violin_0099_utt_0036-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0099_utt_0036.wav"
+    },
+    "Violin_0208_utt_0340-idx4-v2.wav": {
+        "filename": "Violin_0208_utt_0340-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0208_utt_0340.wav"
+    },
+    "Violin_0011_utt_0001-idx0.wav": {
+        "filename": "Violin_0011_utt_0001-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "lyria",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0011_utt_0001.wav"
+    },
+    "Violin_0014_utt_0006-idx4.wav": {
+        "filename": "Violin_0014_utt_0006-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "lyria",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0014_utt_0006.wav"
+    },
+    "Violin_0025_utt_0012-idx1.wav": {
+        "filename": "Violin_0025_utt_0012-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "lyria",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data_16k/segmented/lyria/Violin/Violin_0025_utt_0012.wav"
+    },
+    "Violin_0027_utt_0010-idx2.wav": {
+        "filename": "Violin_0027_utt_0010-idx2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "lyria",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data_16k/segmented/lyria/Violin/Violin_0027_utt_0010.wav"
+    },
+    "Violin_0029_utt_0011-idx3.wav": {
+        "filename": "Violin_0029_utt_0011-idx3.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "lyria",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0029_utt_0011.wav"
+    },
+    "Violin_0003_utt_0051-idx3-v2.wav": {
+        "filename": "Violin_0003_utt_0051-idx3-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0003_utt_0051.wav"
+    },
+    "Violin_0001_utt_0023-idx1-v1.wav": {
+        "filename": "Violin_0001_utt_0023-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0001_utt_0023.wav"
+    },
+    "Violin_0074_utt_0022-idx2-v1.wav": {
+        "filename": "Violin_0074_utt_0022-idx2-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0074_utt_0022.wav"
+    },
+    "Violin_0140_utt_0019-idx0-v2.wav": {
+        "filename": "Violin_0140_utt_0019-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0140_utt_0019.wav"
+    },
+    "Violin_0024_utt_0019-idx1-v2.wav": {
+        "filename": "Violin_0024_utt_0019-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0024_utt_0019.wav"
+    },
+    "Violin_0207_utt_0443-idx0-v1.wav": {
+        "filename": "Violin_0207_utt_0443-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0207_utt_0443.wav"
+    },
+    "Violin_0205_utt_1105-idx4-v2.wav": {
+        "filename": "Violin_0205_utt_1105-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0205_utt_1105.wav"
+    },
+    "Violin_0205_utt_1295-idx3-v1.wav": {
+        "filename": "Violin_0205_utt_1295-idx3-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0205_utt_1295.wav"
+    },
+    "Violin_0207_utt_0428-idx4-v1.wav": {
+        "filename": "Violin_0207_utt_0428-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0207_utt_0428.wav"
+    },
+    "Violin_0207_utt_0618-idx2-v2.wav": {
+        "filename": "Violin_0207_utt_0618-idx2-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0207_utt_0618.wav"
+    },
+    "Violin_0000-idx2.wav": {
+        "filename": "Violin_0000-idx2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "mustango",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../../mustango/data/Violin/Violin_0000.wav"
+    },
+    "Violin_0004-idx4.wav": {
+        "filename": "Violin_0004-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "mustango",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../../mustango/data/mustango/Violin/Violin_0004.wav"
+    },
+    "Violin_0015-idx0.wav": {
+        "filename": "Violin_0015-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "mustango",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../../mustango/data/mustango/Violin/Violin_0015.wav"
+    },
+    "Violin_0020-idx3.wav": {
+        "filename": "Violin_0020-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "mustango",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../../mustango/data/Violin/Violin_0020.wav"
+    },
+    "Violin_0034-idx1.wav": {
+        "filename": "Violin_0034-idx1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "mustango",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../../mustango/data/mustango/Violin/Violin_0034.wav"
+    },
+    "Violin_0061_utt_0047-idx3-v1.wav": {
+        "filename": "Violin_0061_utt_0047-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0061_utt_0047.wav"
+    },
+    "Violin_0080_utt_0016-idx0-v1.wav": {
+        "filename": "Violin_0080_utt_0016-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0080_utt_0016.wav"
+    },
+    "Violin_0180_utt_0034-idx4-v2.wav": {
+        "filename": "Violin_0180_utt_0034-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0180_utt_0034.wav"
+    },
+    "Violin_0205_utt_0867-idx0-v2.wav": {
+        "filename": "Violin_0205_utt_0867-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0205_utt_0867.wav"
+    },
+    "Violin_0198_utt_0006-idx4-v1.wav": {
+        "filename": "Violin_0198_utt_0006-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0198_utt_0006.wav"
+    },
+    "Violin_0081_utt_0022-idx2-v1.wav": {
+        "filename": "Violin_0081_utt_0022-idx2-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0081_utt_0022.wav"
+    },
+    "Violin_0205_utt_1199-idx1-v1.wav": {
+        "filename": "Violin_0205_utt_1199-idx1-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0205_utt_1199.wav"
+    },
+    "Violin_0207_utt_0546-idx1-v2.wav": {
+        "filename": "Violin_0207_utt_0546-idx1-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0207_utt_0546.wav"
+    },
+    "Violin_0208_utt_0177-idx3-v2.wav": {
+        "filename": "Violin_0208_utt_0177-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0208_utt_0177.wav"
+    },
+    "Violin_0208_utt_0301-idx2-v2.wav": {
+        "filename": "Violin_0208_utt_0301-idx2-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0208_utt_0301.wav"
+    },
+    "Violin_0005-idx1.wav": {
+        "filename": "Violin_0005-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "musicgen",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../../musicgen/data/Violin/Violin_0005.wav"
+    },
+    "Violin_0023-idx4.wav": {
+        "filename": "Violin_0023-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "musicgen",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../../musicgen/data/musicgen/Violin/Violin_0023.wav"
+    },
+    "Violin_0028-idx0.wav": {
+        "filename": "Violin_0028-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "musicgen",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Violin/Violin_0028.wav"
+    },
+    "Violin_0029-idx2.wav": {
+        "filename": "Violin_0029-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "musicgen",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../../musicgen/data/musicgen/Violin/Violin_0029.wav"
+    },
+    "Violin_0033-idx3.wav": {
+        "filename": "Violin_0033-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "musicgen",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../../musicgen/data/Violin/Violin_0033.wav"
+    },
+    "Violin_0016_utt_0008-idx2-v1.wav": {
+        "filename": "Violin_0016_utt_0008-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0016_utt_0008.wav"
+    },
+    "Violin_0061_utt_0009-idx3-v1.wav": {
+        "filename": "Violin_0061_utt_0009-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0061_utt_0009.wav"
+    },
+    "Violin_0072_utt_0025-idx3-v2.wav": {
+        "filename": "Violin_0072_utt_0025-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0072_utt_0025.wav"
+    },
+    "Violin_0170_utt_0039-idx0-v1.wav": {
+        "filename": "Violin_0170_utt_0039-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0170_utt_0039.wav"
+    },
+    "Violin_0081_utt_0001-idx0-v2.wav": {
+        "filename": "Violin_0081_utt_0001-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0081_utt_0001.wav"
+    },
+    "Violin_0207_utt_0557-idx1-v1.wav": {
+        "filename": "Violin_0207_utt_0557-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0207_utt_0557.wav"
+    },
+    "Violin_0080_utt_0032-idx4-v2.wav": {
+        "filename": "Violin_0080_utt_0032-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0080_utt_0032.wav"
+    },
+    "Violin_0150_utt_0037-idx4-v1.wav": {
+        "filename": "Violin_0150_utt_0037-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0150_utt_0037.wav"
+    },
+    "Violin_0205_utt_1461-idx1-v2.wav": {
+        "filename": "Violin_0205_utt_1461-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Violin/Violin_0205_utt_1461.wav"
+    },
+    "Violin_0207_utt_0864-idx2-v2.wav": {
+        "filename": "Violin_0207_utt_0864-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Violin",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Violin/Violin_0207_utt_0864.wav"
+    },
+    "Oud_0002_utt_0011-idx2.wav": {
+        "filename": "Oud_0002_utt_0011-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "suno",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0002_utt_0011.wav"
+    },
+    "Oud_0010_utt_0009-idx3.wav": {
+        "filename": "Oud_0010_utt_0009-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "suno",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data_16k/segmented/suno/Oud/Oud_0010_utt_0009.wav"
+    },
+    "Oud_0017_utt_0005-idx0.wav": {
+        "filename": "Oud_0017_utt_0005-idx0.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "suno",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data_16k/segmented/suno/Oud/Oud_0017_utt_0005.wav"
+    },
+    "Oud_0022_utt_0007-idx4.wav": {
+        "filename": "Oud_0022_utt_0007-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "suno",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0022_utt_0007.wav"
+    },
+    "Oud_0025_utt_0001-idx1.wav": {
+        "filename": "Oud_0025_utt_0001-idx1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "suno",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0025_utt_0001.wav"
+    },
+    "Oud_0002_utt_0017-idx4-v1.wav": {
+        "filename": "Oud_0002_utt_0017-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0002_utt_0017.wav"
+    },
+    "Oud_0017_utt_0014-idx2-v1.wav": {
+        "filename": "Oud_0017_utt_0014-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0017_utt_0014.wav"
+    },
+    "Oud_0013_utt_0006-idx0-v2.wav": {
+        "filename": "Oud_0013_utt_0006-idx0-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0013_utt_0006.wav"
+    },
+    "Oud_0021_utt_0041-idx0-v1.wav": {
+        "filename": "Oud_0021_utt_0041-idx0-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0021_utt_0041.wav"
+    },
+    "Oud_0024_utt_0018-idx3-v2.wav": {
+        "filename": "Oud_0024_utt_0018-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0024_utt_0018.wav"
+    },
+    "Oud_0032_utt_0024-idx4-v2.wav": {
+        "filename": "Oud_0032_utt_0024-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0032_utt_0024.wav"
+    },
+    "Oud_0028_utt_0023-idx3-v1.wav": {
+        "filename": "Oud_0028_utt_0023-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0028_utt_0023.wav"
+    },
+    "Oud_0029_utt_0015-idx2-v2.wav": {
+        "filename": "Oud_0029_utt_0015-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0029_utt_0015.wav"
+    },
+    "Oud_0030_utt_0015-idx1-v1.wav": {
+        "filename": "Oud_0030_utt_0015-idx1-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0030_utt_0015.wav"
+    },
+    "Oud_0044_utt_0009-idx1-v2.wav": {
+        "filename": "Oud_0044_utt_0009-idx1-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0044_utt_0009.wav"
+    },
+    "Oud_0005_utt_0004-idx3.wav": {
+        "filename": "Oud_0005_utt_0004-idx3.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "lyria",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0005_utt_0004.wav"
+    },
+    "Oud_0004_utt_0011-idx4.wav": {
+        "filename": "Oud_0004_utt_0011-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "lyria",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0004_utt_0011.wav"
+    },
+    "Oud_0008_utt_0006-idx0.wav": {
+        "filename": "Oud_0008_utt_0006-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "lyria",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0008_utt_0006.wav"
+    },
+    "Oud_0008_utt_0011-idx1.wav": {
+        "filename": "Oud_0008_utt_0011-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "lyria",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/lyria/Oud/Oud_0008_utt_0011.wav"
+    },
+    "Oud_0010_utt_0013-idx2.wav": {
+        "filename": "Oud_0010_utt_0013-idx2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "lyria",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data_16k/segmented/lyria/Oud/Oud_0010_utt_0013.wav"
+    },
+    "Oud_0007_utt_0003-idx2-v2.wav": {
+        "filename": "Oud_0007_utt_0003-idx2-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0007_utt_0003.wav"
+    },
+    "Oud_0009_utt_0019-idx3-v1.wav": {
+        "filename": "Oud_0009_utt_0019-idx3-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0009_utt_0019.wav"
+    },
+    "Oud_0028_utt_0036-idx3-v2.wav": {
+        "filename": "Oud_0028_utt_0036-idx3-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0028_utt_0036.wav"
+    },
+    "Oud_0012_utt_0012-idx4-v2.wav": {
+        "filename": "Oud_0012_utt_0012-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0012_utt_0012.wav"
+    },
+    "Oud_0017_utt_0031-idx4-v1.wav": {
+        "filename": "Oud_0017_utt_0031-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0017_utt_0031.wav"
+    },
+    "Oud_0032_utt_0022-idx0-v2.wav": {
+        "filename": "Oud_0032_utt_0022-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0032_utt_0022.wav"
+    },
+    "Oud_0035_utt_0022-idx2-v1.wav": {
+        "filename": "Oud_0035_utt_0022-idx2-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0035_utt_0022.wav"
+    },
+    "Oud_0055_utt_0041-idx1-v2.wav": {
+        "filename": "Oud_0055_utt_0041-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0055_utt_0041.wav"
+    },
+    "Oud_0055_utt_0131-idx0-v1.wav": {
+        "filename": "Oud_0055_utt_0131-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0055_utt_0131.wav"
+    },
+    "Oud_0055_utt_0168-idx1-v1.wav": {
+        "filename": "Oud_0055_utt_0168-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0055_utt_0168.wav"
+    },
+    "Oud_0007-idx1.wav": {
+        "filename": "Oud_0007-idx1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "mustango",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../../mustango/data/mustango/Oud/Oud_0007.wav"
+    },
+    "Oud_0006-idx4.wav": {
+        "filename": "Oud_0006-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "mustango",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../../mustango/data/mustango/Oud/Oud_0006.wav"
+    },
+    "Oud_0018-idx3.wav": {
+        "filename": "Oud_0018-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "mustango",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../../mustango/data/Oud/Oud_0018.wav"
+    },
+    "Oud_0027-idx0.wav": {
+        "filename": "Oud_0027-idx0.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "mustango",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../../mustango/data/Oud/Oud_0027.wav"
+    },
+    "Oud_0024-idx2.wav": {
+        "filename": "Oud_0024-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "mustango",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../../mustango/data/mustango/Oud/Oud_0024.wav"
+    },
+    "Oud_0017_utt_0031-idx0-v1.wav": {
+        "filename": "Oud_0017_utt_0031-idx0-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0017_utt_0031.wav"
+    },
+    "Oud_0024_utt_0002-idx1-v2.wav": {
+        "filename": "Oud_0024_utt_0002-idx1-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0024_utt_0002.wav"
+    },
+    "Oud_0021_utt_0006-idx4-v2.wav": {
+        "filename": "Oud_0021_utt_0006-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0021_utt_0006.wav"
+    },
+    "Oud_0023_utt_0043-idx0-v2.wav": {
+        "filename": "Oud_0023_utt_0043-idx0-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0023_utt_0043.wav"
+    },
+    "Oud_0024_utt_0040-idx4-v1.wav": {
+        "filename": "Oud_0024_utt_0040-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0024_utt_0040.wav"
+    },
+    "Oud_0026_utt_0017-idx1-v1.wav": {
+        "filename": "Oud_0026_utt_0017-idx1-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0026_utt_0017.wav"
+    },
+    "Oud_0036_utt_0030-idx3-v1.wav": {
+        "filename": "Oud_0036_utt_0030-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0036_utt_0030.wav"
+    },
+    "Oud_0029_utt_0022-idx2-v1.wav": {
+        "filename": "Oud_0029_utt_0022-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0029_utt_0022.wav"
+    },
+    "Oud_0030_utt_0019-idx3-v2.wav": {
+        "filename": "Oud_0030_utt_0019-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0030_utt_0019.wav"
+    },
+    "Oud_0035_utt_0052-idx2-v2.wav": {
+        "filename": "Oud_0035_utt_0052-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0035_utt_0052.wav"
+    },
+    "Oud_0006-idx3.wav": {
+        "filename": "Oud_0006-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "musicgen",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../../musicgen/data/Oud/Oud_0006.wav"
+    },
+    "Oud_0021-idx1.wav": {
+        "filename": "Oud_0021-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "musicgen",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../../musicgen/data/Oud/Oud_0021.wav"
+    },
+    "Oud_0023-idx2.wav": {
+        "filename": "Oud_0023-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "musicgen",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../../musicgen/data/musicgen/Oud/Oud_0023.wav"
+    },
+    "Oud_0022-idx0.wav": {
+        "filename": "Oud_0022-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "musicgen",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Oud/Oud_0022.wav"
+    },
+    "Oud_0025-idx4.wav": {
+        "filename": "Oud_0025-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "musicgen",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Oud/Oud_0025.wav"
+    },
+    "Oud_0022_utt_0008-idx1-v2.wav": {
+        "filename": "Oud_0022_utt_0008-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0022_utt_0008.wav"
+    },
+    "Oud_0027_utt_0030-idx0-v1.wav": {
+        "filename": "Oud_0027_utt_0030-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0027_utt_0030.wav"
+    },
+    "Oud_0031_utt_0074-idx3-v2.wav": {
+        "filename": "Oud_0031_utt_0074-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0031_utt_0074.wav"
+    },
+    "Oud_0058_utt_0012-idx3-v1.wav": {
+        "filename": "Oud_0058_utt_0012-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0058_utt_0012.wav"
+    },
+    "Oud_0035_utt_0049-idx4-v1.wav": {
+        "filename": "Oud_0035_utt_0049-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0035_utt_0049.wav"
+    },
+    "Oud_0073_utt_0011-idx2-v1.wav": {
+        "filename": "Oud_0073_utt_0011-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0073_utt_0011.wav"
+    },
+    "Oud_0058_utt_0009-idx0-v2.wav": {
+        "filename": "Oud_0058_utt_0009-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0058_utt_0009.wav"
+    },
+    "Oud_0055_utt_0183-idx2-v2.wav": {
+        "filename": "Oud_0055_utt_0183-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0055_utt_0183.wav"
+    },
+    "Oud_0050_utt_0008-idx1-v1.wav": {
+        "filename": "Oud_0050_utt_0008-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Oud/Oud_0050_utt_0008.wav"
+    },
+    "Oud_0073_utt_0011-idx4-v2.wav": {
+        "filename": "Oud_0073_utt_0011-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Oud",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Oud/Oud_0073_utt_0011.wav"
+    },
+    "Sarangi_0011_utt_0008-idx3.wav": {
+        "filename": "Sarangi_0011_utt_0008-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "suno",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/suno/Sarangi/Sarangi_0011_utt_0008.wav"
+    },
+    "Sarangi_0014_utt_0019-idx0.wav": {
+        "filename": "Sarangi_0014_utt_0019-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "suno",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0014_utt_0019.wav"
+    },
+    "Sarangi_0014_utt_0006-idx1.wav": {
+        "filename": "Sarangi_0014_utt_0006-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "suno",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/suno/Sarangi/Sarangi_0014_utt_0006.wav"
+    },
+    "Sarangi_0061_utt_0001-idx4.wav": {
+        "filename": "Sarangi_0061_utt_0001-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "suno",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0061_utt_0001.wav"
+    },
+    "Sarangi_0062_utt_0016-idx2.wav": {
+        "filename": "Sarangi_0062_utt_0016-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "suno",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0062_utt_0016.wav"
+    },
+    "Sarangi_0005_utt_0017-idx0-v1.wav": {
+        "filename": "Sarangi_0005_utt_0017-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0005_utt_0017.wav"
+    },
+    "Sarangi_0010_utt_0060-idx1-v1.wav": {
+        "filename": "Sarangi_0010_utt_0060-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0010_utt_0060.wav"
+    },
+    "Sarangi_0015_utt_0020-idx3-v2.wav": {
+        "filename": "Sarangi_0015_utt_0020-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0015_utt_0020.wav"
+    },
+    "Sarangi_0019_utt_0065-idx4-v2.wav": {
+        "filename": "Sarangi_0019_utt_0065-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0019_utt_0065.wav"
+    },
+    "Sarangi_0034_utt_0068-idx0-v2.wav": {
+        "filename": "Sarangi_0034_utt_0068-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0034_utt_0068.wav"
+    },
+    "Sarangi_0020_utt_0154-idx2-v1.wav": {
+        "filename": "Sarangi_0020_utt_0154-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0020_utt_0154.wav"
+    },
+    "Sarangi_0033_utt_0081-idx2-v2.wav": {
+        "filename": "Sarangi_0033_utt_0081-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0033_utt_0081.wav"
+    },
+    "Sarangi_0082_utt_0145-idx4-v1.wav": {
+        "filename": "Sarangi_0082_utt_0145-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0082_utt_0145.wav"
+    },
+    "Sarangi_0035_utt_0177-idx3-v1.wav": {
+        "filename": "Sarangi_0035_utt_0177-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0035_utt_0177.wav"
+    },
+    "Sarangi_0059_utt_0039-idx1-v2.wav": {
+        "filename": "Sarangi_0059_utt_0039-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0059_utt_0039.wav"
+    },
+    "Sarangi_0022_utt_0001-idx2.wav": {
+        "filename": "Sarangi_0022_utt_0001-idx2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "lyria",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data_16k/segmented/lyria/Sarangi/Sarangi_0022_utt_0001.wav"
+    },
+    "Sarangi_0023_utt_0005-idx3.wav": {
+        "filename": "Sarangi_0023_utt_0005-idx3.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "lyria",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0023_utt_0005.wav"
+    },
+    "Sarangi_0046_utt_0003-idx4.wav": {
+        "filename": "Sarangi_0046_utt_0003-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "lyria",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0046_utt_0003.wav"
+    },
+    "Sarangi_0038_utt_0014-idx1.wav": {
+        "filename": "Sarangi_0038_utt_0014-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "lyria",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/lyria/Sarangi/Sarangi_0038_utt_0014.wav"
+    },
+    "Sarangi_0057_utt_0008-idx0.wav": {
+        "filename": "Sarangi_0057_utt_0008-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "lyria",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0057_utt_0008.wav"
+    },
+    "Sarangi_0007_utt_0013-idx0-v2.wav": {
+        "filename": "Sarangi_0007_utt_0013-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0007_utt_0013.wav"
+    },
+    "Sarangi_0059_utt_0061-idx0-v1.wav": {
+        "filename": "Sarangi_0059_utt_0061-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0059_utt_0061.wav"
+    },
+    "Sarangi_0034_utt_0017-idx3-v1.wav": {
+        "filename": "Sarangi_0034_utt_0017-idx3-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0034_utt_0017.wav"
+    },
+    "Sarangi_0063_utt_0002-idx3-v2.wav": {
+        "filename": "Sarangi_0063_utt_0002-idx3-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0063_utt_0002.wav"
+    },
+    "Sarangi_0073_utt_0001-idx2-v2.wav": {
+        "filename": "Sarangi_0073_utt_0001-idx2-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0073_utt_0001.wav"
+    },
+    "Sarangi_0081_utt_0025-idx2-v1.wav": {
+        "filename": "Sarangi_0081_utt_0025-idx2-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0081_utt_0025.wav"
+    },
+    "Sarangi_0073_utt_0013-idx4-v2.wav": {
+        "filename": "Sarangi_0073_utt_0013-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0073_utt_0013.wav"
+    },
+    "Sarangi_0083_utt_0055-idx1-v1.wav": {
+        "filename": "Sarangi_0083_utt_0055-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0083_utt_0055.wav"
+    },
+    "Sarangi_0063_utt_0002-idx4-v1.wav": {
+        "filename": "Sarangi_0063_utt_0002-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0063_utt_0002.wav"
+    },
+    "Sarangi_0084_utt_0075-idx1-v2.wav": {
+        "filename": "Sarangi_0084_utt_0075-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0084_utt_0075.wav"
+    },
+    "Sarangi_0036-idx2.wav": {
+        "filename": "Sarangi_0036-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "mustango",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../../mustango/data/mustango/Sarangi/Sarangi_0036.wav"
+    },
+    "Sarangi_0030-idx3.wav": {
+        "filename": "Sarangi_0030-idx3.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "mustango",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../../mustango/data/mustango/Sarangi/Sarangi_0030.wav"
+    },
+    "Sarangi_0043-idx1.wav": {
+        "filename": "Sarangi_0043-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "mustango",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../../mustango/data/Sarangi/Sarangi_0043.wav"
+    },
+    "Sarangi_0062-idx4.wav": {
+        "filename": "Sarangi_0062-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "mustango",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../../mustango/data/mustango/Sarangi/Sarangi_0062.wav"
+    },
+    "Sarangi_0053-idx0.wav": {
+        "filename": "Sarangi_0053-idx0.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "mustango",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../../mustango/data/Sarangi/Sarangi_0053.wav"
+    },
+    "Sarangi_0033_utt_0015-idx1-v2.wav": {
+        "filename": "Sarangi_0033_utt_0015-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0033_utt_0015.wav"
+    },
+    "Sarangi_0034_utt_0006-idx2-v1.wav": {
+        "filename": "Sarangi_0034_utt_0006-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0034_utt_0006.wav"
+    },
+    "Sarangi_0008_utt_0022-idx0-v1.wav": {
+        "filename": "Sarangi_0008_utt_0022-idx0-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0008_utt_0022.wav"
+    },
+    "Sarangi_0064_utt_0029-idx1-v1.wav": {
+        "filename": "Sarangi_0064_utt_0029-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0064_utt_0029.wav"
+    },
+    "Sarangi_0068_utt_0005-idx0-v2.wav": {
+        "filename": "Sarangi_0068_utt_0005-idx0-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0068_utt_0005.wav"
+    },
+    "Sarangi_0073_utt_0007-idx2-v2.wav": {
+        "filename": "Sarangi_0073_utt_0007-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0073_utt_0007.wav"
+    },
+    "Sarangi_0034_utt_0008-idx3-v1.wav": {
+        "filename": "Sarangi_0034_utt_0008-idx3-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0034_utt_0008.wav"
+    },
+    "Sarangi_0056_utt_0005-idx4-v1.wav": {
+        "filename": "Sarangi_0056_utt_0005-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0056_utt_0005.wav"
+    },
+    "Sarangi_0060_utt_0022-idx3-v2.wav": {
+        "filename": "Sarangi_0060_utt_0022-idx3-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0060_utt_0022.wav"
+    },
+    "Sarangi_0082_utt_0045-idx4-v2.wav": {
+        "filename": "Sarangi_0082_utt_0045-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0082_utt_0045.wav"
+    },
+    "Sarangi_0009-idx2.wav": {
+        "filename": "Sarangi_0009-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "musicgen",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Sarangi/Sarangi_0009.wav"
+    },
+    "Sarangi_0022-idx0.wav": {
+        "filename": "Sarangi_0022-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "musicgen",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Sarangi/Sarangi_0022.wav"
+    },
+    "Sarangi_0060-idx1.wav": {
+        "filename": "Sarangi_0060-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "musicgen",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../../musicgen/data/Sarangi/Sarangi_0060.wav"
+    },
+    "Sarangi_0065-idx3.wav": {
+        "filename": "Sarangi_0065-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "musicgen",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../../musicgen/data/Sarangi/Sarangi_0065.wav"
+    },
+    "Sarangi_0063-idx4.wav": {
+        "filename": "Sarangi_0063-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "musicgen",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../../musicgen/data/musicgen/Sarangi/Sarangi_0063.wav"
+    },
+    "Sarangi_0003_utt_0014-idx0-v2.wav": {
+        "filename": "Sarangi_0003_utt_0014-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0003_utt_0014.wav"
+    },
+    "Sarangi_0007_utt_0013-idx0-v1.wav": {
+        "filename": "Sarangi_0007_utt_0013-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0007_utt_0013.wav"
+    },
+    "Sarangi_0033_utt_0158-idx1-v1.wav": {
+        "filename": "Sarangi_0033_utt_0158-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0033_utt_0158.wav"
+    },
+    "Sarangi_0008_utt_0039-idx2-v1.wav": {
+        "filename": "Sarangi_0008_utt_0039-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0008_utt_0039.wav"
+    },
+    "Sarangi_0017_utt_0085-idx3-v1.wav": {
+        "filename": "Sarangi_0017_utt_0085-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0017_utt_0085.wav"
+    },
+    "Sarangi_0020_utt_0096-idx2-v2.wav": {
+        "filename": "Sarangi_0020_utt_0096-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0020_utt_0096.wav"
+    },
+    "Sarangi_0064_utt_0012-idx4-v2.wav": {
+        "filename": "Sarangi_0064_utt_0012-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0064_utt_0012.wav"
+    },
+    "Sarangi_0034_utt_0114-idx4-v1.wav": {
+        "filename": "Sarangi_0034_utt_0114-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Sarangi/Sarangi_0034_utt_0114.wav"
+    },
+    "Sarangi_0035_utt_0155-idx3-v2.wav": {
+        "filename": "Sarangi_0035_utt_0155-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0035_utt_0155.wav"
+    },
+    "Sarangi_0062_utt_0061-idx1-v2.wav": {
+        "filename": "Sarangi_0062_utt_0061-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sarangi",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sarangi/Sarangi_0062_utt_0061.wav"
+    },
+    "Sitar_0026_utt_0003-idx3.wav": {
+        "filename": "Sitar_0026_utt_0003-idx3.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "suno",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0026_utt_0003.wav"
+    },
+    "Sitar_0036_utt_0017-idx0.wav": {
+        "filename": "Sitar_0036_utt_0017-idx0.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "suno",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data_16k/segmented/suno/Sitar/Sitar_0036_utt_0017.wav"
+    },
+    "Sitar_0025_utt_0002-idx1.wav": {
+        "filename": "Sitar_0025_utt_0002-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "suno",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/suno/Sitar/Sitar_0025_utt_0002.wav"
+    },
+    "Sitar_0037_utt_0001-idx4.wav": {
+        "filename": "Sitar_0037_utt_0001-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "suno",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0037_utt_0001.wav"
+    },
+    "Sitar_0060_utt_0018-idx2.wav": {
+        "filename": "Sitar_0060_utt_0018-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "suno",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0060_utt_0018.wav"
+    },
+    "Sitar_0046_utt_0007-idx0-v2.wav": {
+        "filename": "Sitar_0046_utt_0007-idx0-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0046_utt_0007.wav"
+    },
+    "Sitar_0061_utt_0028-idx2-v1.wav": {
+        "filename": "Sitar_0061_utt_0028-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0061_utt_0028.wav"
+    },
+    "Sitar_0112_utt_0014-idx3-v2.wav": {
+        "filename": "Sitar_0112_utt_0014-idx3-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0112_utt_0014.wav"
+    },
+    "Sitar_0052_utt_0001-idx3-v1.wav": {
+        "filename": "Sitar_0052_utt_0001-idx3-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0052_utt_0001.wav"
+    },
+    "Sitar_0152_utt_0234-idx2-v2.wav": {
+        "filename": "Sitar_0152_utt_0234-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0152_utt_0234.wav"
+    },
+    "Sitar_0068_utt_0053-idx1-v1.wav": {
+        "filename": "Sitar_0068_utt_0053-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0068_utt_0053.wav"
+    },
+    "Sitar_0159_utt_0091-idx1-v2.wav": {
+        "filename": "Sitar_0159_utt_0091-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0159_utt_0091.wav"
+    },
+    "Sitar_0149_utt_0091-idx4-v1.wav": {
+        "filename": "Sitar_0149_utt_0091-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0149_utt_0091.wav"
+    },
+    "Sitar_0151_utt_0031-idx4-v2.wav": {
+        "filename": "Sitar_0151_utt_0031-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0151_utt_0031.wav"
+    },
+    "Sitar_0156_utt_0195-idx0-v1.wav": {
+        "filename": "Sitar_0156_utt_0195-idx0-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0156_utt_0195.wav"
+    },
+    "Sitar_0020_utt_0010-idx2.wav": {
+        "filename": "Sitar_0020_utt_0010-idx2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "lyria",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data_16k/segmented/lyria/Sitar/Sitar_0020_utt_0010.wav"
+    },
+    "Sitar_0062_utt_0011-idx3.wav": {
+        "filename": "Sitar_0062_utt_0011-idx3.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "lyria",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0062_utt_0011.wav"
+    },
+    "Sitar_0033_utt_0010-idx1.wav": {
+        "filename": "Sitar_0033_utt_0010-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "lyria",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data_16k/segmented/lyria/Sitar/Sitar_0033_utt_0010.wav"
+    },
+    "Sitar_0047_utt_0014-idx0.wav": {
+        "filename": "Sitar_0047_utt_0014-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "lyria",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0047_utt_0014.wav"
+    },
+    "Sitar_0048_utt_0002-idx4.wav": {
+        "filename": "Sitar_0048_utt_0002-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "lyria",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0048_utt_0002.wav"
+    },
+    "Sitar_0059_utt_0008-idx0-v1.wav": {
+        "filename": "Sitar_0059_utt_0008-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0059_utt_0008.wav"
+    },
+    "Sitar_0010_utt_0003-idx1-v2.wav": {
+        "filename": "Sitar_0010_utt_0003-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0010_utt_0003.wav"
+    },
+    "Sitar_0074_utt_0021-idx2-v2.wav": {
+        "filename": "Sitar_0074_utt_0021-idx2-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0074_utt_0021.wav"
+    },
+    "Sitar_0011_utt_0017-idx3-v2.wav": {
+        "filename": "Sitar_0011_utt_0017-idx3-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0011_utt_0017.wav"
+    },
+    "Sitar_0070_utt_0021-idx4-v1.wav": {
+        "filename": "Sitar_0070_utt_0021-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0070_utt_0021.wav"
+    },
+    "Sitar_0067_utt_0078-idx2-v1.wav": {
+        "filename": "Sitar_0067_utt_0078-idx2-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0067_utt_0078.wav"
+    },
+    "Sitar_0100_utt_0069-idx3-v1.wav": {
+        "filename": "Sitar_0100_utt_0069-idx3-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0100_utt_0069.wav"
+    },
+    "Sitar_0142_utt_0035-idx1-v1.wav": {
+        "filename": "Sitar_0142_utt_0035-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0142_utt_0035.wav"
+    },
+    "Sitar_0098_utt_0047-idx4-v2.wav": {
+        "filename": "Sitar_0098_utt_0047-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0098_utt_0047.wav"
+    },
+    "Sitar_0149_utt_0221-idx0-v2.wav": {
+        "filename": "Sitar_0149_utt_0221-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0149_utt_0221.wav"
+    },
+    "Sitar_0004-idx2.wav": {
+        "filename": "Sitar_0004-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "mustango",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../../mustango/data/mustango/Sitar/Sitar_0004.wav"
+    },
+    "Sitar_0005-idx4.wav": {
+        "filename": "Sitar_0005-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "mustango",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../../mustango/data/mustango/Sitar/Sitar_0005.wav"
+    },
+    "Sitar_0012-idx1.wav": {
+        "filename": "Sitar_0012-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "mustango",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../../mustango/data/Sitar/Sitar_0012.wav"
+    },
+    "Sitar_0034-idx0.wav": {
+        "filename": "Sitar_0034-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "mustango",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../../mustango/data/mustango/Sitar/Sitar_0034.wav"
+    },
+    "Sitar_0055-idx3.wav": {
+        "filename": "Sitar_0055-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "mustango",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../../mustango/data/Sitar/Sitar_0055.wav"
+    },
+    "Sitar_0052_utt_0001-idx4-v2.wav": {
+        "filename": "Sitar_0052_utt_0001-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0052_utt_0001.wav"
+    },
+    "Sitar_0026_utt_0011-idx3-v1.wav": {
+        "filename": "Sitar_0026_utt_0011-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0026_utt_0011.wav"
+    },
+    "Sitar_0069_utt_0030-idx0-v2.wav": {
+        "filename": "Sitar_0069_utt_0030-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0069_utt_0030.wav"
+    },
+    "Sitar_0040_utt_0034-idx2-v2.wav": {
+        "filename": "Sitar_0040_utt_0034-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0040_utt_0034.wav"
+    },
+    "Sitar_0145_utt_0012-idx2-v1.wav": {
+        "filename": "Sitar_0145_utt_0012-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0145_utt_0012.wav"
+    },
+    "Sitar_0146_utt_0011-idx3-v2.wav": {
+        "filename": "Sitar_0146_utt_0011-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0146_utt_0011.wav"
+    },
+    "Sitar_0056_utt_0014-idx1-v1.wav": {
+        "filename": "Sitar_0056_utt_0014-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0056_utt_0014.wav"
+    },
+    "Sitar_0083_utt_0043-idx4-v1.wav": {
+        "filename": "Sitar_0083_utt_0043-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0083_utt_0043.wav"
+    },
+    "Sitar_0116_utt_0004-idx0-v1.wav": {
+        "filename": "Sitar_0116_utt_0004-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0116_utt_0004.wav"
+    },
+    "Sitar_0153_utt_0099-idx1-v2.wav": {
+        "filename": "Sitar_0153_utt_0099-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0153_utt_0099.wav"
+    },
+    "Sitar_0021-idx2.wav": {
+        "filename": "Sitar_0021-idx2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "musicgen",
+        "idx": 2,
+        "new_name": "Audio_idx2_v3.wav",
+        "abs_path": "../../musicgen/data/musicgen/Sitar/Sitar_0021.wav"
+    },
+    "Sitar_0032-idx4.wav": {
+        "filename": "Sitar_0032-idx4.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "musicgen",
+        "idx": 4,
+        "new_name": "Audio_idx4_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Sitar/Sitar_0032.wav"
+    },
+    "Sitar_0056-idx0.wav": {
+        "filename": "Sitar_0056-idx0.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "musicgen",
+        "idx": 0,
+        "new_name": "Audio_idx0_v1.wav",
+        "abs_path": "../../musicgen/data/musicgen/Sitar/Sitar_0056.wav"
+    },
+    "Sitar_0064-idx1.wav": {
+        "filename": "Sitar_0064-idx1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "musicgen",
+        "idx": 1,
+        "new_name": "Audio_idx1_v3.wav",
+        "abs_path": "../../musicgen/data/Sitar/Sitar_0064.wav"
+    },
+    "Sitar_0019-idx3.wav": {
+        "filename": "Sitar_0019-idx3.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "musicgen",
+        "idx": 3,
+        "new_name": "Audio_idx3_v3.wav",
+        "abs_path": "../../musicgen/data/Sitar/Sitar_0019.wav"
+    },
+    "Sitar_0041_utt_0001-idx1-v2.wav": {
+        "filename": "Sitar_0041_utt_0001-idx1-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0041_utt_0001.wav"
+    },
+    "Sitar_0057_utt_0006-idx3-v1.wav": {
+        "filename": "Sitar_0057_utt_0006-idx3-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0057_utt_0006.wav"
+    },
+    "Sitar_0010_utt_0015-idx0-v2.wav": {
+        "filename": "Sitar_0010_utt_0015-idx0-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0010_utt_0015.wav"
+    },
+    "Sitar_0135_utt_0052-idx3-v2.wav": {
+        "filename": "Sitar_0135_utt_0052-idx3-v2.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 3,
+        "new_name": "Audio_idx3_v2.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0135_utt_0052.wav"
+    },
+    "Sitar_0136_utt_0004-idx2-v2.wav": {
+        "filename": "Sitar_0136_utt_0004-idx2-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v1.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0136_utt_0004.wav"
+    },
+    "Sitar_0061_utt_0017-idx4-v1.wav": {
+        "filename": "Sitar_0061_utt_0017-idx4-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0061_utt_0017.wav"
+    },
+    "Sitar_0078_utt_0015-idx0-v1.wav": {
+        "filename": "Sitar_0078_utt_0015-idx0-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 0,
+        "new_name": "Audio_idx0_v3.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0078_utt_0015.wav"
+    },
+    "Sitar_0106_utt_0041-idx4-v2.wav": {
+        "filename": "Sitar_0106_utt_0041-idx4-v2.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 4,
+        "new_name": "Audio_idx4_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0106_utt_0041.wav"
+    },
+    "Sitar_0136_utt_0012-idx2-v1.wav": {
+        "filename": "Sitar_0136_utt_0012-idx2-v1.wav",
+        "sampling_rate": "original",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 2,
+        "new_name": "Audio_idx2_v2.wav",
+        "abs_path": "../data/segmented/Sitar/Sitar_0136_utt_0012.wav"
+    },
+    "Sitar_0159_utt_0094-idx1-v1.wav": {
+        "filename": "Sitar_0159_utt_0094-idx1-v1.wav",
+        "sampling_rate": "16k",
+        "instrument": "Sitar",
+        "model": "real",
+        "idx": 1,
+        "new_name": "Audio_idx1_v1.wav",
+        "abs_path": "../data_16k/segmented/real/Sitar/Sitar_0159_utt_0094.wav"
+    }
+}
